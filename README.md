@@ -75,7 +75,21 @@ Several tools are available to help designers create effective wireframes. The c
 **Figma** is one of the most popular and powerful tools for wireframing and UI/UX design. It is a browser-based application that also provides desktop and mobile apps, making it highly accessible and collaborative.  
 
 **Key Features of Figma for Wireframing:**
-- **Real-time Collaboration** – Multiple team members can work on the same file s
+- **Real-time Collaboration** – Multiple team members can work on the same files
+
+## Benefits of Wireframing in Software Development
+
+Wireframing is not only valuable to designers but also plays a critical role in the **software development process**. It acts as a bridge between stakeholders, designers, and developers by providing a shared visual understanding of the product before coding begins.  
+
+### How Wireframes Guide the Design Process
+- **Blueprint for Development**  
+  Wireframes serve as the foundation for the product’s structure, ensuring that developers understand what needs to be built before implementation begins.  
+  *Example:* A wireframe showing a login form with username and password fields helps developers identify required input validations and backend logic.
+
+- **Early Usability Testing**  
+  Wireframes allow teams to test layouts and workflows before investing resources in full development.  
+  *Example:* Testing a wireframe for a booking flow can reveal if users understand how to search, select, and confirm a booking, enabling ear
+
 
 
 ## Importance of Wireframing in the Design Process
