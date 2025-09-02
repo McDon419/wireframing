@@ -90,6 +90,15 @@ Wireframing is not only valuable to designers but also plays a critical role in 
   Wireframes allow teams to test layouts and workflows before investing resources in full development.  
   *Example:* Testing a wireframe for a booking flow can reveal if users understand how to search, select, and confirm a booking, enabling ear
 
+  ## Real-World Scenario: Wireframing in Action
+
+During the design of a **hotel booking platform**, the design team created wireframes to map out the user journey—from searching for a room to confirming a booking.  
+
+### Identified Usability Issues
+- **Complex Navigation**:  
+  The initial wireframe showed multiple filters and options cluttering the search page, overwhel
+
+
 
 
 ## Importance of Wireframing in the Design Process
