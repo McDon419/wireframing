@@ -61,5 +61,22 @@ Although I can't view the content directly, Figma links are often used to share 
 ## Introduction
 Wireframing is the process of creating a **visual blueprint or schematic layout** of a digital product such as a website, mobile application, or software interface. It serves as a guide to structure content, navigation, and functionality before moving on to detailed design and development.
 
+## Popular Wireframing Tools
+
+Several tools are available to help designers create effective wireframes. The choice of tool often depends on team preferences, project complexity, and required collaboration features. Some widely used wireframing tools include:
+
+- **Figma**  
+- Sketch  
+- Adobe XD  
+- Balsamiq  
+- Axure RP  
+
+### Why Figma is Recommended
+**Figma** is one of the most popular and powerful tools for wireframing and UI/UX design. It is a browser-based application that also provides desktop and mobile apps, making it highly accessible and collaborative.  
+
+**Key Features of Figma for Wireframing:**
+- **Real-time Collaboration** – Multiple team members can work on the same file s
+
+
 ## Importance of Wireframing in the Design Process
 Wireframing plays a crucial role in the **User Experience (UX) design process** because it allows designers, developers, an
